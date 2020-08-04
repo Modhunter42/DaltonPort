@@ -14,3 +14,8 @@ Minor positive net income @L3 (other levels untested).
 
 Produces wood>coal>flares, oil, fish (food), beer>booze & lots of happiness.
 I expect no upgrading issues.  Enough of everything, plenty of happiness.
+
+
+Level 0&1
+Level 2&3
+Level 3 Expanded to full performance & clutter.
